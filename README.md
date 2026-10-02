@@ -16,7 +16,7 @@ Claude skills inspired by the **eXtreme Go Horse** process (XGH), the most hones
 
 **Claude Code**
 ```
-/plugin install <your-username>/gohorse
+/plugin install lgpf/gohorse
 ```
 Or copy the `skills/` folder into `~/.claude/skills/`.
 
